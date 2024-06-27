@@ -1,4 +1,5 @@
 setwd ("/Users/sgyaase/Documents/Machine_learning")
+###just testing
 library(tidyverse) # dataset & viz tools
 library(magrittr) # pipe operator
 library(MASS) # statistical tools, such as lda
